@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+Anthony Baglivo
 
 [Link to another page](./another-page.html).
 
